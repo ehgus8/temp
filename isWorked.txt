@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 is worked?a
+=======
+is modified?
+>>>>>>> adea2828f68eb471ec4d3092d84ce20021e194dc
